@@ -1,44 +1,48 @@
-<h1>Adventour</h1> This is a modern and user-friendly travel app built with React, designed to help users plan and organize their travel adventures with ease. Whether you're a seasoned globetrotter or a first-time traveler, Adventour has all the features you need to make your journey unforgettable.
+<h1>Your Pharmacy</h1>YourPharmacy is a Medicine website.YourPharmacy is your trusted online healthcare partner with a wide range of genuine medicines, reliable diagnostic tests, and convenient home delivery, we ensure your health is our top priority.
 <br/>
 <br/>
-<b>Live At :</b> https://adventour-e3im-git-booking-monurajputrko.vercel.app/
+<b>Live At :</b> https://famous-stardust-433bbc.netlify.app
 
 # Team & Tasks
-MD Dilnawaj Alam: Home Page <br/>
-Mohd Shamaiel Wani: Explore Page <br/>
-Karan Kotai(Team Leader) : Booking & Listing pages <br/>
-Monu Singh : Checkout page <br/>
-Shiva Verma : Login/Signup pages <br/>
+Pankaj Singh Bisht: Home Page <br/>
+Tushar Sapate: Product Page & Product Description Page <br/>
+Ashutosh Kumawat : Address & Payment Page <br/>
+Saif Khan : Cart Page <br/>
+Ashish Roul : Login/Signup Pages <br/>
 
 # Features 
 
-**Adventure Planning:** Plan your adventure trips by creating personalized itineraries. Add activities, set dates, and organize your daily schedule.
+**Consult Online Expert:** Connect with our online experts to address your health concerns with ease. Book a consultation today and prioritize your well-being.
 
-![image](https://github.com/monurajputrko/Adventour/assets/68837552/1e1448ea-b678-4cfa-85c8-473fa517d914)
-
-**Local Guides:** Get recommendations from local experts and fellow travelers about hidden gems, must-visit places, and authentic experiences.
-
-![image](https://github.com/karnking/adventour.github.io/assets/68837552/f50b490f-6f4a-4bf1-b807-74a076f26060)
-
-**Interactive Bill & Payment:** Explore destinations using the razor-sharp razor-payment system with booking details your adventure has to offer with all the offers.
-
-![image](https://github.com/monurajputrko/Adventour/assets/68837552/2f2484b7-2a7e-423f-af7e-319fd5457086)
+![homepage](https://github.com/ashukmt/Your_Pharmacy/assets/132146622/5cebbd8d-0cdd-426d-8da2-053287347c61)
 
 
-**Photo Gallery:** Share your travel moments and explore photos shared by others who have visited the same destinations.
+**Order Products:** Discover a vast range of pharmaceutical products on our website. You can effortlessly add items to your cart, explore our catalog, and apply filters for a streamlined shopping experience.
 
-![image](https://github.com/monurajputrko/Adventour/assets/68837552/2f037799-4ebb-4f7a-8cb6-b97e1c27158d)
+![product page](https://github.com/ashukmt/Your_Pharmacy/assets/132146622/1a95fa39-283a-48db-839c-d18c88fd90ef)
 
-**Responsive Design:** Adventour is fully responsive, providing a seamless experience across devices, whether you're using a smartphone, tablet, or desktop.
 
-![image](https://github.com/monurajputrko/Adventour/assets/68837552/7fce2d62-06e1-4181-bcf1-b027fecb4c88)
+**Cart Details:**  View your selected products, tally your total bill, easily remove items, and apply coupon codes for exclusive discounts.
 
-Technologies Used React Redux for state management React Router for navigation Mapbox API for interactive maps OpenWeather API for weather forecasts Firebase for user authentication and data storage Chakra & Material Components for styling. We welcome contributions from the community!
+![cart page](https://github.com/ashukmt/Your_Pharmacy/assets/132146622/6e58513d-a602-4636-bd71-6d9906a5a2eb)
+
+
+**Delivery Address:** Manage your delivery addresses effortlessly on our address page. Add, edit, or delete multiple addresses and select your preferred one for seamless product deliveries. Your convenience, your control
+
+![Address-Page](https://github.com/ashukmt/Your_Pharmacy/assets/132146622/12596e68-1ce3-4a26-ae51-b6deaef44ac0)
+
+
+**Responsive Design:** Your Pharmacy is fully responsive, providing a seamless experience across devices, whether you're using a smartphone, tablet, or desktop.
+
+![Responisveness-YourPharmacy](https://github.com/ashukmt/Your_Pharmacy/assets/132146622/a9b6f6ef-6646-4163-aada-e8694e9b6dc1)
+
+
+Technologies Used Html Css Javascript and Json-Server for data management and Firebase for user authentication and RazorPay for secure payment. We welcome contributions from the community!
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,redux,firebase,figma,materialui,tailwind,css,git" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,firebase,git" />
   </a>
 </p>
 
-Happy adventuring with Adventour! Explore the world, create memories, and make every journey an unforgettable experience. If you have any questions or need assistance, feel free to reach out to us at contact@adventourapp.com.
+Embark on a healthier journey with Your Pharmacy. Discover wellness, create lasting well-being, and make every step a prescription for a better life. If you have any questions or need assistance, feel free to reach out to us at contact@yourpharmacy.com.
